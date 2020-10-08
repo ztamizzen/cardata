@@ -36,7 +36,38 @@
             "Selected": false
         }
     ],
-    "Body": [],
+    "Body": [
+        {
+            "Id": "rvppdkyg",
+            "Name": "Personbilar",
+            "Selected": false
+        },
+        {
+            "Id": "pv7pdkyg",
+            "Name": "Transportbilar",
+            "Selected": false
+        },
+        {
+            "Id": "sv3pdkyg",
+            "Name": "Husvagnar",
+            "Selected": false
+        },
+        {
+            "Id": "3v2pdkyg",
+            "Name": "Husbilar",
+            "Selected": false
+        },
+        {
+            "Id": "vvipdkyg",
+            "Name": "Motorcyklar",
+            "Selected": false
+        },
+        {
+            "Id": "ivfpdkyg",
+            "Name": "Mopeder",
+            "Selected": false
+        }
+    ],
     "Year": [
         {
             "Id": "3v2vakyg",
