@@ -205,6 +205,43 @@
             "Selected": false
         }
     ],
-    "Fuel": [],
-    "Gearbox": []
+    "Fuel": [
+        {
+            "Id": "4vtsakyg",
+            "Name": "Petrol",
+            "Selected": false
+        },
+        {
+            "Id": "5vtsakyg",
+            "Name": "Diesel",
+            "Selected": false
+        },
+        {
+            "Id": "6vtsakyg",
+            "Name": "Ethanol",
+            "Selected": false
+        },
+        {
+            "Id": "7vtsakyg",
+            "Name": "Hybrid",
+            "Selected": false
+        },
+        {
+            "Id": "8vtsakyg",
+            "Name": "Electric",
+            "Selected": false
+        }
+    ],
+    "Gearbox": [
+        {
+            "Id": "4vtsakyg",
+            "Name": "Automatic",
+            "Selected": false
+        },
+        {
+            "Id": "5vtsakyg",
+            "Name": "Manual",
+            "Selected": false
+        }
+    ]
 }
